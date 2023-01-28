@@ -1,6 +1,6 @@
 // 724. Find Pivot Index
 
-package leetcode75.level1.task2;
+package leetcode75.level1.arrays.task2;
 
 public class Solution {
     public static int pivotIndex(int[] nums) {

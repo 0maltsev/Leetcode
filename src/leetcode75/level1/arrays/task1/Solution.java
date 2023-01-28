@@ -1,6 +1,6 @@
 //1480. Running Sum of 1d Array
 
-package leetcode75.level1.task1;
+package leetcode75.level1.arrays.task1;
 
 class Solution {
     public static int[] runningSum(int[] nums) {
